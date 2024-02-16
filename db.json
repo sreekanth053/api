@@ -1,6 +1,83 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false 
+  "productslist":[
+    {
+      "id":1,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"All Bags"
+    },
+    {
+      "id":2,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_50_n6uj8i.jpg",
+      "name":"Vanity Pouch"
+    },
+    {
+      "id":3,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_49_aydf3t.png",
+      "name":"Tote Bag"
+    },
+    {
+      "id":4,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_13_fykfxo.jpg",
+      "name":"Duffle Bag"
+    },
+    {
+      "id":5,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_49_c830li.jpg",
+      "name":"Laptop Sleeve"
+    },
+    {
+      "id":6,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082871/Frame_49_cyfgm0.jpg",
+      "name":"Messenger Bags"
+    },
+    {
+      "id":7,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082575/Frame_22_jawh4a.jpg",
+      "name":"Slings Bags"
+    },
+    {
+      "id":8,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082575/Frame_20_zcjlhk.jpg",
+      "name":"Hand Bag"
+    },
+    {
+      "id":9,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082871/Frame_46_fqo2am.jpg",
+      "name":"Bucket Bag"
+    }
+  ],
+  "productdetails":[
+    {
+      "id":1,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/Mask_group_s9acms.jpg",
+      "bookmark":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084544/Bookmark_dtrswl.jpg",
+      "name":"The Brown Metro Movers",
+      "price":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_367_mu71ht.jpg",
+      "cart":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_450_ogyykl.jpg"
+    },
+    {
+      "id":2,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04031_01_1_niqoxn.jpg",
+      "bookmark":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084544/Bookmark_dtrswl.jpg",
+      "name":"The Metro Movers Black",
+      "price":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_367_mu71ht.jpg",
+      "cart":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_450_ogyykl.jpg"
+    },
+    {
+      "id":3,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04085_01_1_v0fw1s.jpg",
+      "bookmark":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084544/Bookmark_dtrswl.jpg",
+      "name":"The Metro Movers Black",
+      "price":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_367_mu71ht.jpg",
+      "cart":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_450_ogyykl.jpg"
+    },
+    {
+      "id":4,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04086_01_1_c0qooj.jpg",
+      "bookmark":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084544/Bookmark_dtrswl.jpg",
+      "name":"The Metro Movers Black",
+      "price":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_367_mu71ht.jpg",
+      "cart":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084543/Group_450_ogyykl.jpg"
+    }
+  ]
 }
